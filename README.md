@@ -62,4 +62,4 @@ La herramienta se distribuye de forma **100% gratuita** para la comunidad a trav
 
 Si la herramienta te resulta útil en tus partidas, llamadas o *streams* y quieres apoyar el desarrollo de la versión para Android y las futuras actualizaciones:
 
-[![PayPal](https://img.shields.io/badge/Donar_con-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](paypal.me/JuanFraguas)
+[![PayPal](https://img.shields.io/badge/Donar_con-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)] (https://paypal.me/JuanFraguas)
