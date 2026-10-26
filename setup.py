@@ -7,7 +7,8 @@ setup(
         "traductor_core.py",
         compiler_directives={
             'language_level': "3",
-            'always_allow_keywords': True
+            'always_allow_keywords': True,
+            'binding': True  # <-- Vital para PyQt6
         }
     )
 )
